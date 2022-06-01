@@ -1,8 +1,8 @@
 ![Tommy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tommyxchow&count_private=true&show_icons=true&theme=github_dark)
 
-- 🔭 I’m currently working on [Frosty](https://github.com/tommyxchow/frosty), a cross-platform mobile client for Twitch.tv
-- 🌱 I’m currently learning React, Next.js, Flutter, and a bit of Swift/SwiftUI
-- 👯 I’m looking to collaborate on [Frosty](https://github.com/tommyxchow/frosty)
+- 🔭 I’m currently working on [Frosty](https://github.com/tommyxchow/frosty), a mobile [Twitch.tv](https://www.twitch.tv/) client for iOS and Android.
+- 🌱 I’m currently learning React, Next.js, Flutter, and a bit of SwiftUI.
+- 👯 I’m looking to collaborate on [Frosty](https://github.com/tommyxchow/frosty).
 - 💬 Ask me about Flutter, React, and SwiftUI!
 
 <!--
